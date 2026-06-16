@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - 
-  - 
-  - 
+  - Pedestal_Layer
+  - Clipboard_Layer
+  - Ruler_Layer
   - 
   - 
   - 
